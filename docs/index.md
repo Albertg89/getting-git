@@ -8,8 +8,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 - `git add <argument>`: Moves file/files from untracked to staged.
 - `git commit -m '<message>'`: Generates a seaved state with descriptive message
 - `git remote -v`: Describes our remote connection to our github repo
-- `git remote add origin <url>`:
-- `git push origin <branch>`:
+- `git remote add origin <url>`: Connect the remote connection to github repo
+- `git push origin <branch>`: Copy and past the current branch to github
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
