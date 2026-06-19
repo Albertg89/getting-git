@@ -16,6 +16,13 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+### Branching
+- `git checkout <commit-hash>`: To view a previous state of our project at the provided hash.
+- `git checkout -B <commit-hash>`: Creates a cope of current branch and switches into the new copy.
+- `git checkout <branch-name>`: Switches branches.
+- `git branch`: Displays all existing and current branches.
+
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
